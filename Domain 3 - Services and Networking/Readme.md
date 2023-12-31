@@ -37,4 +37,4 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 [PlDk]: <./service-account.md>
 [PlDl]: <./sa-pointers.md>
 [PlDm]: <./sa-practical.md>
-[PlDn]: <./nsp-deny-pod.yaml>
+[PlDn]: <./nsp-deny-pod.md>
