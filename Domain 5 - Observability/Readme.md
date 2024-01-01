@@ -17,8 +17,8 @@ https://www.udemy.com/course/mastering-certified-kubernetes-application-develope
 
 
 
-   [PlDa]: <./livenessprobe.yaml>
-   [PlDb]: <./readinessprobe.yaml>
+   [PlDa]: <./livenessprobe.md>
+   [PlDb]: <./readinessprobe.md>
    [PlDc]: <./install-metric-server.md>  
    [PlDd]: <./events.md>
    [PlDe]: <./field-selector.md>
