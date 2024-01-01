@@ -1,6 +1,3 @@
-```sh
-
-```
 
 readinessporobe.yaml
 
